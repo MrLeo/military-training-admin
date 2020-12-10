@@ -5,24 +5,6 @@
 An out-of-box UI solution for enterprise applications as a Vue boilerplate. based on  <a href="https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/" target="_blank">Ant Design of Vue</a>
 </div>
 
-<div align="center">
-
-[![License](https://img.shields.io/npm/l/package.json.svg?style=flat)](https://github.com/vueComponent/ant-design-vue-pro/blob/master/LICENSE)
-[![Release](https://img.shields.io/github/release/vueComponent/ant-design-vue-pro.svg?style=flat)](https://github.com/vueComponent/ant-design-vue-pro/releases/latest)
-[![Travis branch](https://travis-ci.org/vueComponent/ant-design-vue-pro.svg?branch=master)](https://travis-ci.org/vueComponent/ant-design-vue-pro)
-
-</div>
-
-- 预览: https://preview.pro.antdv.com
-- 首页: https://pro.antdv.com
-- 文档: https://pro.antdv.com/docs/getting-started
-- 更新日志: https://pro.antdv.com/docs/changelog
-- 常见问题: https://pro.antdv.com/docs/faq
-
-
-Overview
-----
-
 基于 [Ant Design of Vue](https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/) 实现的 [Ant Design Pro](https://pro.ant.design/) 
 
 ![dashboard](https://static-2.loacg.com/open/static/github/SP1.png)
@@ -73,8 +55,6 @@ yarn run build
 yarn run lint
 ```
 
-
-
 其他说明
 ----
 
@@ -102,8 +82,3 @@ Modern browsers and IE10.
 | --- | --- | --- | --- | --- |
 | IE10, Edge | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-
-## Contributors
-
-This project exists thanks to all the people who contribute. 
-<a href="https://github.com/vueComponent/ant-design-vue-pro/graphs/contributors"><img src="https://opencollective.com/ant-design-pro-vue/contributors.svg?width=890&button=false" /></a>
